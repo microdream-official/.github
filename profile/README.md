@@ -7,6 +7,10 @@ _Current Projects: 3_
 
 ***
 
+#### We are so sorry that our website is currently under construction. 
+#### We are so sorry that our website is currently under construction. 
+#### We are so sorry that our website is currently under construction. 
+
 ### Member Details
 
 - 1% の Masking (@[**Mengyun117**](https://github.com/Mengyun117)) - organization creator, super administrator  
