@@ -1,7 +1,5 @@
 # Microdream Technologies
 
-***
-
 **Hi there, welcome here. We are Microdream Tech.**  
 _Current Projects: 3_
 
