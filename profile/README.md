@@ -11,7 +11,7 @@ _Current Projects: 3_
 
 ### Member Details
 
-- Hanasaki Fubuki (@[**Mengyun117**](https://github.com/hanasaki-fubuki)) - organization creator, super administrator  
+- Hanasaki Fubuki (@[**hanasaki-fubuki**](https://github.com/hanasaki-fubuki)) - organization creator, super administrator  
   Signature: Tell them, whoever comes, I'll kill them all. (from John Wick 2)  
 - LongBaTian (@[**lungbatian**](https://github.com/lungbatian)) - member  
   Signature: To be or not to be.   
